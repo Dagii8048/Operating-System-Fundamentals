@@ -1,1 +1,3 @@
 # Operating-System-Fundamentals
+
+This repository is dedicated to share the detailed explanations of the review exercices found on Abraham Silberschatz's book on operating systems...
