@@ -1,3 +1,3 @@
 # Operating-System-Fundamentals
 
-This repository is dedicated to share detailed explanations about the review exercices found on Abraham Silberschatz's book,Operating-System-Concepts 10th edition.
+This repository is dedicated to share detailed explanations and answers on all the review exercices of Abraham Silberschatz's book,Operating-System-Concepts 10th edition. The primary programming language will be C, and besides, Java will be used for some programs.
